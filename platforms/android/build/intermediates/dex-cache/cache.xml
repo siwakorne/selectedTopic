@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\843af8865889a70a1b0beb0b3ffd04369341d013\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\Admin\Desktop\5706021630119\nativeSc\platforms\android\app\build\intermediates\pre-dexed\debug\classes_37463d424b880f3e6d75db290bd5bd81740a3b46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\79080e8d633dc78c530c322494cfa94e971ed46f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Admin\Desktop\5706021630119\nativeSc\platforms\android\app\build\intermediates\pre-dexed\debug\classes_9fe625b1df5465a1133b50d6524024f7033035f3.jar" />
+    </item>
+
+</items>
